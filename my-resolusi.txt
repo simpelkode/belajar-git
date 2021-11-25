@@ -21,9 +21,6 @@ Ini merupakan pencapai yang saya ingin targetkan ditahun 2022
  - Belajara JAVASCRIPT
  * belajar javascript dasar
  * belajar DOM
- * Latihab javascript 1
- # latihan
- * Membuat aplikasi sederhana dengan javascript
- * Membuat menu 
+ * Latihan javascript 1
  - Belajar MYSQL
  - Belajar PHP
