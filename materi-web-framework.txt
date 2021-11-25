@@ -1,10 +1,9 @@
 - Belajar Framwork CSS
-  * Materialize
   * Bootstrap
-  * Tailwind
 - Belajar Framework javascript
-  * Angular
   * Vue
+  * React
 - Belajar Framework PHP
   * Laravel
   * Codeigniter
+  
