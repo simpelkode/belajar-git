@@ -1,0 +1,6 @@
+Hallo ini saya ingin menerangkan tentang pembelajaran web yagn sudah saya pelajari :
+- Belajar HTML
+- Belajar CSS
+- Belajara Javascript
+- Belajar PHP
+- Belajara MYSQL
