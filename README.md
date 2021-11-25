@@ -1,1 +1,1 @@
-# my-resolusi
+Tenatang resolusi saya di tahun 2022
