@@ -15,13 +15,15 @@ Ini merupakan pencapai yang saya ingin targetkan ditahun 2022
   * latihan implementasi HTML dan CSS (membuat portfolio)
   * latihan implementasi HTML dan CSS (membuat company profil)
   * latihan implementasi HTML dan CSS (membuat Landing Page)
+ - Belajar GIT
+ * belajara dasar-dasar GIT
+ * Implementasi pembelajaran git pada setiap coding
  - Belajara JAVASCRIPT
  * belajar javascript dasar
  * belajar DOM
- * belajar 
+ * Latihab javascript 1
  # latihan
  * Membuat aplikasi sederhana dengan javascript
  * Membuat menu 
- - Belajar GIT
  - Belajar MYSQL
  - Belajar PHP
