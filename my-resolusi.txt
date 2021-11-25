@@ -2,6 +2,10 @@ Ini merupakan pencapai yang saya ingin targetkan ditahun 2022
 - Belajar HTML
   * HTML Dasar
   * HTML Tingkat Lanjut
+  #latihan
+  * membuat data tabel
+  * Membuat kerangka layout dengan tabel html
+  * Membuat Desain protfolio dengan tabel html
 - Belajar CSS
   * CSS Dasar
   * CSS Tingkat Lanjut (CSS3)
