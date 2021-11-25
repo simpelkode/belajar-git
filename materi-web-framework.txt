@@ -2,8 +2,10 @@
   * Bootstrap
 - Belajar Framework javascript
   * Vue
-  * React
 - Belajar Framework PHP
   * Laravel
-  * Codeigniter
+  # Belajara pcakage pada laravel
+  - belajara laravel ui
+  - belajar laravel livewire
+  - belajar laravel jetstream
   
