@@ -11,3 +11,8 @@ Ini merupakan pencapai yang saya ingin targetkan ditahun 2022
   * CSS Tingkat Lanjut (CSS3)
   * Belajar Layouting
   * Belajar Flexbox
+ - Belajara JAVASCRIPT
+ - Belajar MYSQL
+ - Belajar PHP
+ - belajar Pyton
+ - belajar Java
