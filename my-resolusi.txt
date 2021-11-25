@@ -1,0 +1,7 @@
+Ini merupakan pencapai yang saya ingin targetkan ditahun 2022
+- Belajar HTML
+  * HTML Dasar
+  * HTML Tingkat Lanjut
+- Belajar CSS
+  * CSS Dasar
+  * CSS Tingkat Lanjut (CSS3)
